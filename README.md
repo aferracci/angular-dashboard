@@ -31,5 +31,3 @@ ng add @angular/material
 npm install highcharts-angular --save
 npm install highcharts --save
 npm install @angular/flex-layout @angular/cdk --save
-
-20:49
