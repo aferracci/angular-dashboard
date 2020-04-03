@@ -28,6 +28,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Quick reference
 ng add @angular/material
+
 npm install highcharts-angular --save
+
 npm install highcharts --save
+
 npm install @angular/flex-layout @angular/cdk --save
